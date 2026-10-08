@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #000000;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #5500ff;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+p {
+    margin: 20px;
+    line-height: 1.6;
+}
+
+#wordspacing {
+    word-spacing: 10px;
+}
+
+
+img {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    max-width: 75%;
+    height: auto;
+}
